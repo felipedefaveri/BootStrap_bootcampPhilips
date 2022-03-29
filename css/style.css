@@ -1,5 +1,5 @@
 body {
-    font-family: 70px Arial, Helvetica, sans-serif;
+    font: 70px Arial, Helvetica, sans-serif;
 }
 
 .navbar {
@@ -13,4 +13,9 @@ body {
 
 .margin {
     padding-bottom: 30px;
+    padding-top: 10px;
+}
+
+.parceiros {
+    background-color: #EEEEEE;
 }
