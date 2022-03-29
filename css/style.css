@@ -3,12 +3,18 @@ body {
 }
 
 .navbar {
-    background-color: #4AE5D3;
+    background-color: #E5E5E5;
 }
 
-.container-fluid {
-    background-color: #C8C8C8;
+.nav-link {
     color: white;
+}
+
+.container-fluid {}
+
+.quem-somos {
+    color: white;
+    background-color: #D9D9D9;
 }
 
 .margin {
@@ -17,5 +23,14 @@ body {
 }
 
 .parceiros {
-    background-color: #EEEEEE;
+    background-color: #C9C9C9;
+}
+
+.servicos {
+    background-color: #BDBDBD;
+}
+
+.bg-footer {
+    background-color: #B1B1B1;
+    color: white
 }
