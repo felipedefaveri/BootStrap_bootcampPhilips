@@ -1,11 +1,16 @@
+body {
+    font-family: 70px Arial, Helvetica, sans-serif;
+}
+
 .navbar {
     background-color: #4AE5D3;
 }
 
 .container-fluid {
-    background-color: #E1E1E1;
+    background-color: #C8C8C8;
+    color: white;
 }
 
 .margin {
-    padding-top: 30px;
+    padding-bottom: 30px;
 }
